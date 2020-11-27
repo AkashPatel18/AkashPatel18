@@ -1,5 +1,5 @@
 ### Hi there,I'm Akash Patel 👋
-
+![Alt Text](https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif)
 
 
 - 🔭 I’m currently looking for opportunity ...
