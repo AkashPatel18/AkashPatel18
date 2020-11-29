@@ -1,6 +1,6 @@
 ![Alt Text](https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif)
 
-![](https://komarev.com/ghpvc/?username=AkashPatel18)
+![](https://komarev.com/ghpvc/?username=AkashPatel18&color=brightgreen)
 
 ### Hi there,I'm Akash Patel 👋
 
