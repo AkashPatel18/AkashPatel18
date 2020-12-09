@@ -16,4 +16,4 @@
 - ⚡ Fun fact: I do random stuff that i dont know  ...
 
 
-![GitHub followers](https://img.shields.io/github/followers/AkashPatel18)
+
