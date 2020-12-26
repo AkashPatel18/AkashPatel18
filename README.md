@@ -16,3 +16,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=AkashPatel18&color=brightgreen)
+
+(https://github-readme-stats.vercel.app/api?username=tathagat2006&show_icons=true&hide_border=true)
