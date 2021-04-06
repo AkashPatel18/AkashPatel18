@@ -10,6 +10,4 @@
 
 - ⚡ Fun fact
 
-<h3 align="left">Languages and Tools:</h3>
-
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="" height='40'></img>
+<h2>Skills : python, html</h2>
