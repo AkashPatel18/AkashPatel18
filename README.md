@@ -10,4 +10,14 @@
 
 - ⚡ Fun fact
 
-<h3>Skills : python, html</h3>
+<h2>Skills : </h2>
+
+Let's connect !
+
+<img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30px" ><a href=""></a></img>
+
+<img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30px"><a href=""></a></img>
+
+<img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="" height="30px"><a href=""></a></img>
+
+<img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30px"><a href=""></a></img>
