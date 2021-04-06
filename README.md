@@ -4,6 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🔭 I’m currently working on dskjdks [jkjk] (https://www.youtube.com/)
+- 🔭 I’m currently working on dskjdks [jkjk](https://www.youtube.com/)
 
 
