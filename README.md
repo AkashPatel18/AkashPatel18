@@ -10,4 +10,4 @@
 
 - ⚡ Fun fact
 
-<h2>Skills : python, html</h2>
+<h3>Skills : python, html</h3>
