@@ -11,7 +11,7 @@
 - ⚡ Fun fact
 
 <h2>Skills : </h2>
-<h3 align="center">Let's connect and chat! Find me on the web...</h3>
+<h5 align="center"><i>Let's connect and chat! Find me on the web...</i></h5>
 
 <i align="center">Let's connect and chat! Find me on the web...</i>
 
