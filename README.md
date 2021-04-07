@@ -1,4 +1,4 @@
-<h1 align="center"> 👋, I'm Akash Nareshkumar Patel</h1>
+<h1 align="center"> 👋, I'm </h1>
 
 <h3 align="center"></h3>
 
@@ -14,7 +14,7 @@
 
 Let's connect !
 
-Email : akashpatel18041999@gmail.com
+Email :
+Website : https://akashpatel18.github.io/MyPortfolio/
 
-Website :
-<a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30px" ></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30px"></img></a>
+<a href="https://github.com/AkashPatel18"><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30px" ></img></a><a href="https://www.linkedin.com/in/akash-patel-7a96a8152/"><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30px"></img></a>
