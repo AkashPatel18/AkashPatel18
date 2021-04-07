@@ -12,7 +12,7 @@
 
 <h2>Skills : </h2>
 
-Let's connect !
+<i align="center">Let's connect and chat! Find me on the web...</i>
 
 Email :
 Website : https://akashpatel18.github.io/MyPortfolio/
