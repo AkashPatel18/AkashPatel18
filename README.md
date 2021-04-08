@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h6H4_ihtzU6GHT1SBpXlqeTbJpbBt_UE/view?usp=sharing)
 
-- ⚡ Fun fact     
+ 
 
 
 <h3>🛠️Tech Stacks</h3>
