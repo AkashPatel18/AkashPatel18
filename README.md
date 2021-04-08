@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm akash</h1>
 
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate full-stack developer from india</h3>
 
 
 
