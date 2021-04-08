@@ -40,10 +40,11 @@
 
 
 
-  [![Website Badge](https://img.shields.io/badge/kashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/) 
+  [![Website Badge](https://img.shields.io/badge/akashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/) 
   
   
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-patel-7a96a8152/)](https://www.linkedin.com/in/akash-patel-7a96a8152/) 
+   
    [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
