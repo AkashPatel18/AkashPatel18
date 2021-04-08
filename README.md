@@ -45,14 +45,14 @@
   
    [![Linkedin Badge](https://img.shields.io/badge/-akashpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-patel-7a96a8152/)](https://www.linkedin.com/in/akash-patel-7a96a8152/) 
    
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-Email :
-Website : https://akashpatel18.github.io/MyPortfolio/
+ 
+   [![Gmail Badge](https://img.shields.io/badge/-akashpatel18041999-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashpatel18041999@gmail.com)](mailto:akashpatel18041999@gmail.com)
+   
+   [![Instagram Badge](https://img.shields.io/badge/-@_akash_18-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_akash_18/)](https://instagram.com/v_anushkaa) 
+   
+   
 
-<a href="https://github.com/AkashPatel18"><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30px" ></img></a><a href="https://www.linkedin.com/in/akash-patel-7a96a8152/"><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="" height="30px"></img></a><a href=""><img className="social" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30px"></img></a>
+
 
 
 
