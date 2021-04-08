@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer</h3>
 
 
-- 📝 I regularly write articles on []()
 
-- 📄 Know about my experiences []()
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h6H4_ihtzU6GHT1SBpXlqeTbJpbBt_UE/view?usp=sharing)
 
 - ⚡ Fun fact     
 
