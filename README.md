@@ -40,7 +40,7 @@
 
 
 
-  [![Website Badge](https://img.shields.io/badge/-anushkavermakashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/) 
+  [![Website Badge](https://img.shields.io/badge/kashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/) 
   
   
    [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
