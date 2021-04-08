@@ -40,14 +40,9 @@
 
 
 
-  [![Website Badge](https://img.shields.io/badge/akashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/) 
-  
-  
+  [![Website Badge](https://img.shields.io/badge/akashpatel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akashpatel18.github.io/MyPortfolio/)](https://akashpatel18.github.io/MyPortfolio/)  
    [![Linkedin Badge](https://img.shields.io/badge/-akashpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-patel-7a96a8152/)](https://www.linkedin.com/in/akash-patel-7a96a8152/) 
-   
- 
    [![Gmail Badge](https://img.shields.io/badge/-akashpatel18041999-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashpatel18041999@gmail.com)](mailto:akashpatel18041999@gmail.com)
-   
    [![Instagram Badge](https://img.shields.io/badge/-@_akash_18-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_akash_18/)](https://instagram.com/v_anushkaa) 
    
    
