@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on []()  
 
 - 📝 I regularly write articles on []()
 
